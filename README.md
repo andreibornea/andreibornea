@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-bornea)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([YOUR_GOOGLE_SCHOLAR_URL](https://scholar.google.com/citationshl=ro&user=CFcCkUcAAAAJ&view_op=list_works&gmla=AETOMgES_ZozTAxjUQ5ZwYZ4voG8MmCcPtZlv9ABjEyWaBRbVdeUEVrsgXIH5hQk9dYWkoxnw7zJcYGZVoVhD58yX5zCpjEAvuoIsmfjIdyljbqYJwUB1GERE-BXxgnB5Svcg7a1v_avJkq-CZcaBU_1-tuGTz7xkF61lHd0))
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=ro&user=CFcCkUcAAAAJ)
 
 
 ### 🛠️: Languages and Tools :
