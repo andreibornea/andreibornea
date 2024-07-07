@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I currently collaborate as a Research Engineer with Huawei Technologies France on a research project to leverage Generative AI tools in the Telecommunications Industry. After graduating from the best engineering school in France, Ecole Polytechnique, I am continuing my career with the Master in Management program at INSEAD.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-bornea)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=ro&user=CFcCkUcAAAAJ)
 
